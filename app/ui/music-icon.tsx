@@ -1,5 +1,3 @@
-import clsx from "clsx";
-
 export default function MusicIcon({ className }: { className?: string }) {
   return (
     <div className={className}>
